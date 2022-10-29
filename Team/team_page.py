@@ -2,6 +2,7 @@
 This code designs the Team Page
 """
 import streamlit as st
+import streamlit_nested_layout
 import pathlib
 import os
 
@@ -78,4 +79,29 @@ def team_page():
 						<br> &bull; Hydrology and Earth System Sciences (1)
 						</p>""", unsafe_allow_html=True)
 	with tab2:
-		pass
+		col1, col2, col3 = st.columns(3)
+		with col1:
+			st.markdown("<h5 style='text-align: center; color: black;'>雷享勇（北京大学2022级普博） </h5>", unsafe_allow_html=True)
+			# st.image(os.path.join(file_path,'Peking_University_logo.png'),width=200,caption='北京大学2022级普博')
+			st.info("""研究兴趣：全球变化下的水文气象响应及陆面过程数值模拟""")
+		with col2:
+			st.markdown("<h5 style='text-align: center; color: black;'>殷子云（北京大学2022级直博） </h5>", unsafe_allow_html=True)
+			# st.image(os.path.join(file_path,'Peking_University_logo.png'),width=200,caption='北京大学2022级普博')
+			st.info("""研究兴趣：大尺度河流洪水数据，分析和建模（large scale riverine flood data, analysis&modeling）""")
+		with col3:
+			st.markdown("<h5 style='text-align: center; color: black;'>丁萌（2021-2022 visiting student；Kansas State University） </h5>", unsafe_allow_html=True)
+			# st.image(os.path.join(file_path,'Peking_University_logo.png'),width=200,caption='北京大学2022级普博')
+			st.info("""研究兴趣：人-水关系""")
+	with tab3:
+		col1, col2, col3 = st.columns(3)
+		with col1:
+			st.markdown("<h5 style='text-align: center; color: black;'>郑楷颢（北京大学2019级本科生，2023级硕士） </h5>", unsafe_allow_html=True)
+			# st.image(os.path.join(file_path,'Peking_University_logo.png'),width=200,caption='北京大学2022级普博')
+			st.info("""研究兴趣：水文地理与洪泛区""")
+		with col2:
+			st.markdown("<h5 style='text-align: center; color: black;'>袁子珉（北京大学2019级本科生，2023级直博） </h5>", unsafe_allow_html=True)
+			# st.image(os.path.join(file_path,'Peking_University_logo.png'),width=200,caption='北京大学2022级普博')
+			st.info("""研究兴趣：全球河流水力几何形态的时空分布""")
+
+
+
