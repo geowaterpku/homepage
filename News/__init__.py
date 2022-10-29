@@ -1,0 +1,1 @@
+from .news_page import news_page
