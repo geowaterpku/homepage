@@ -48,7 +48,7 @@ publications['2019'] = [
 	"""Liang, J., Z.-L. Yang, <b><u>P. Lin</b></u>: Systematic hydrological evaluation of the Noah-MP land surface model over China. <i>Advances in Atmospheric Research</i>. <a href="https://link.springer.com/article/10.1007/s00376-019-9016-y">link</a>""",
 	"""Zheng, H., Z.-L. Yang, <b><u>P. Lin</b></u>, et al.: On the sensitivity of precipitation partitioning into evapotranspiration and runoff in land surface parameterizations. <i>Water Resources Research</i>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017WR022236">link</a>"""
 ]
-publications['prior to 2018 (graduate)'] = [
+publications['prior to 2018'] = [
 	"""<b><u>Lin, P.</b></u>, L.J. Hopper Jr., Z.-L. Yang, M. Lenz, J.W. Zeitler (2018): Insights into hydrometeorological factors constraining flood prediction skill during the May and October 2015 Texas Hill Country flood events. <i>Journal of Hydrometeorology</i>. <a href="https://journals.ametsoc.org/view/journals/hydr/19/8/jhm-d-18-0038_1.xml">link</a>""",
 	"""<b><u>Lin P.</b></u>, Z.-L. Yang, D.J. Gochis, Y. Wei, D.R. Maidment, M.A. S.-Valenzuela, C.H. David (2018): Implementation of a vector-based river network routing model in the community WRF-Hydro system for flood discharge simulation. <i>Environmental Modelling & Software</i>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364815217313531">link</a>""",
 	"""Jin, Q., J. Wei, Z.-L. Yang, <b><u>P. Lin</b></u> (2017): Irrigation-induced environmental changes around the Aral Sea: An integrated view from multiple satellite observations. <i>Remote Sensing</i>. <a href="https://www.mdpi.com/2072-4292/9/9/900">link</a>""",
@@ -57,7 +57,7 @@ publications['prior to 2018 (graduate)'] = [
 	"""<b><u>Lin P.</b></u>, J. Wei, Z.-L. Yang, Y.-F. Zhang, K. Zhang (2016): Snow data assimilation-constrained land initialization improves seasonal temperature prediction. <i>Geophysical Research Letters</i>. <b>(picked up by 7 news outlets including Phys.org, ScienceDaily, etc.)</b>  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016gl070966">link</a>""",
 	"""<b><u>Lin P.</b></u>, Z.-L. Yang, X. Cai, C. H. David (2015): Development and evaluation of a physically-based lake level model for water resource management: A case study for Lake Buchanan, Texas. <i>Journal of Hydrology: Regional Studies</i>. <a href="https://www.sciencedirect.com/science/article/pii/S2214581815001056">link</a>"""
 ]
-publications['2012 (undergraduate)'] = [
+publications['2012'] = [
 	"""<b><u>Lin P.</b></u>, Q. Qin, H. Dong, Q. Meng: Hyperspectral vegetation indices for crop chlorophyll estimation: Assessment, modeling and validation. <i>2012 IEEE International Geoscience and Remote Sensing Symposium</i>. <a href="https://ieeexplore.ieee.org/document/6352529">link</a>"""
 ]
 

@@ -1,0 +1,1 @@
+from .research_page import research_page
