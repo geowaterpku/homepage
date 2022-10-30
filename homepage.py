@@ -1,13 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-from Home import home_page
-from News import news_page
-from Publications import publication_page
-from Team import team_page
-from Teaching import teaching_page
-from Research import research_page
-
 st.set_page_config(layout="wide")
 
 def define_sidebar():
@@ -27,21 +20,27 @@ def define_sidebar():
 select_sidebar = define_sidebar()
 
 if select_sidebar=="首页 | Home":
+	from Home import home_page
 	home_page()
 
 if select_sidebar=="课题组新闻 | News":
+	from News import news_page
 	news_page()
 
 if select_sidebar=="课题组成员 | Team":
+	from Team import team_page
 	team_page()
 
 if select_sidebar=="科研成果 | Publication":
+	from Publications import publication_page
 	publication_page()
 
 if select_sidebar=="教学成果 | Teaching":
+	from Teaching import teaching_page
 	teaching_page()
 
 if select_sidebar=="科研项目 | Projects":
+	from Research import research_page
 	research_page()
 
 
