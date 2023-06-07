@@ -72,5 +72,7 @@ publications['2012'] = [
 ]
 
 working_papers = [
-
+	"""<sup>#</sup>Ding, M., <sup>#</sup><b><u>P. Lin</b></u>, S. Gao, J. Wang, Z. Zeng, K. Zheng, X. Zhou, D. Yamazaki, Y. Gao, Y. Liu: Reversal of the levee effect towards sustainable floodplain management (in revision).""",
+	"""<sup>#</sup>Lei, X., <sup>#</sup><b><u>P. Lin</b></u> et al.: Uncertainty cascade in runoff simulation beyond model parameters: insights from a case study in the Upper Brahmaputra (in prep).""",
+	"""<sup>#</sup>Yin, Z., <sup>#</sup><b><u>P. Lin</b></u>, G.H. Allen, R. Riggs, <sup>#</sup>X. Lei: A synthesis of global streamflow characteristics, hydrometeorology, catchment attributes (GSHA) for large-sample river-centric studies (in prep)."""
 ]
