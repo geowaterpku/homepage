@@ -24,7 +24,8 @@ def get_citation(month):
 		else:
 			# if there is no citation created for this month yet
 			n_citations = get_google_citation()
-			df = df.append({'date':this_month,'citation':n_citations}, ignore_index=True)
+			breakpoint()
+			df = pd.concat([df,pd.DataFrame.from_dict({'date':[this_month],'citation':[n_citations]})], ignore_index=True)
 			df.to_csv(filename,index=False)
 			return n_citations
 
