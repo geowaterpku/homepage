@@ -1,6 +1,13 @@
 from collections import OrderedDict
 
 publications = OrderedDict()
+publications['2024'] = [
+	"""Xu, Rongrong, et al. including <b><u>P. Lin</b></u>: A global-scale framework for hydropower development incorporating strict environmental constraints. <i>Nature Water</i>. <a href="https://www.nature.com/articles/s44221-022-00004-1">link</a>""",
+	"""<sup>#</sup><b><u>P. Lin</b></u>, Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E. and de Moraes Frasson, R.P.: Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges. <i>Remote Sensing of Environment</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0034425723000408">link</a>""",
+	"""Lin, J., Bryan, B.A., Zhou, X., <b><u>P. Lin</b></u>, Do, H.X., Gao, L., Gu, X., Liu, Z., Wan, L., Tong, S. and Huang, J.: Making China’s water data accessible, usable and shareable. <i>Nature Water</i>. <a href="https://www.nature.com/articles/s44221-023-00039-y">link</a>""",
+	"""Lauerwald, Ronny, et al. including <b><u>P. Lin</b></u>: Inland Water Greenhouse Gas Budgets for RECCAP2: 1. State‐of‐the‐Art of Global Scale Assessments. <i>Global Biogeochemical Cycles</i>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GB007657">link</a>""",
+	"""Lauerwald, Ronny, et al. including <b><u>P. Lin</b></u>: Inland water greenhouse gas budgets for RECCAP2: 2. Regionalization and homogenization of estimates. <i>Global Biogeochemical Cycles</i>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GB007658">link</a>""",
+]
 publications['2023'] = [
 	"""Xu, Rongrong, et al. including <b><u>P. Lin</b></u>: A global-scale framework for hydropower development incorporating strict environmental constraints. <i>Nature Water</i>. <a href="https://www.nature.com/articles/s44221-022-00004-1">link</a>""",
 	"""<sup>#</sup><b><u>P. Lin</b></u>, Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E. and de Moraes Frasson, R.P.: Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges. <i>Remote Sensing of Environment</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0034425723000408">link</a>""",
