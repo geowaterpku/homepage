@@ -1,6 +1,11 @@
 from collections import OrderedDict
 
 news = OrderedDict()
+news['2023'] = [
+	"""<b>2021-01-28: 科研成果 | Zimin Yuan published a paper on GRL! (See the <a href="https://github.com/geowaterpku/homepage/blob/main/News/new1.html">News</a>)""",
+
+]
+
 news['2022'] = [
 	"""<b>实验室新闻：I am always looking for highly motivated PhD/master/undergraduate students and Postdoctoral Fellows to work in my lab. We study the geography of global inland waters, and we develop physically-based models, data-driven methods, and geographic information data infrastructures to improve our fundamental understanding of the river-climate and river-human relationships. Please reach out to <a href="peironglinlin@pku.edu.cn">peironglinlin@pku.edu.cn</a> if you are interested in working <span style="color:#0F33E9">@ GeoWater lab @ PKU</span></b>.<br><br>
 	🧑‍💻 <span style="color:#E9A70F"><b>近期职位 | Recent openning: a Postdoc or Research Assistant to start in Dec. 2022 (other times negotiable) to work on a funded project on global floodplain mapping.</b></span> (position requirement: good computational/coding skills in handling big data, teamwork spirit, good academic writing/speaking skills; trackable academic records; position plus: strong curiosity for the unknown). """,
